@@ -4,3 +4,4 @@ lib/
 pyvenv.cfg
 keys.py
 .vscode/
+__pycache__/
